@@ -1,4 +1,4 @@
-### AgriSenAI
+# AgriSenAI
 AgriSenAI is a Python-based desktop application developed to automate the processing and analysis of UAV thermal and multispectral images for precision agriculture. This tool supports agricultural professionals by providing critical insights for data-driven irrigation and crop management decisions.
 
 ## Features
