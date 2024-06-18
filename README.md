@@ -18,9 +18,6 @@ git clone https://github.com/yourusername/AgriSenAI.git
 cd AgriSenAI
 Install the required dependencies:
 
-sh
-Copy code
-pip install -r requirements.txt
 Run the application:
 
 sh
@@ -28,6 +25,7 @@ Copy code
 python agriSenAI.py
 Usage
 Import Data: Load thermal and RGB raster files.
+![1.PNG](..%2F..%2F..%2F..%2Fimages%2F1.PNG)
 Field Extraction: Automatically delineate field boundaries within imported images.
 Plot Extraction: Identify and extract individual experimental plots.
 Plant Detection: Detect plant areas using the Red-Green Ratio Index (RGRI) and Otsu's thresholding method.
