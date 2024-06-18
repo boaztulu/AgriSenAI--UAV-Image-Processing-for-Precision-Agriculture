@@ -25,7 +25,8 @@ Copy code
 python agriSenAI.py
 Usage
 Import Data: Load thermal and RGB raster files.
-![1.PNG](..%2F..%2F..%2F..%2Fimages%2F1.PNG)
+![1](https://github.com/boaztulu/AgriSenAI--UAV-Image-Processing-for-Precision-Agriculture/assets/151384871/65a51a72-a446-4fa9-8b78-f14069953e2b)
+
 Field Extraction: Automatically delineate field boundaries within imported images.
 Plot Extraction: Identify and extract individual experimental plots.
 Plant Detection: Detect plant areas using the Red-Green Ratio Index (RGRI) and Otsu's thresholding method.
