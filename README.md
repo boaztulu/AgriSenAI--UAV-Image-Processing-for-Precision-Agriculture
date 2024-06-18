@@ -54,5 +54,4 @@ We welcome contributions to enhance AgriSenAI. Please fork the repository and su
 AgriSenAI is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
 
 ## Acknowledgments
-
-Funding for this research was provided by the National Institute of Food and Agriculture, U.S. Department of Agriculture, under award number 2020-67021-31965. The authors also thank the Water Resource Research Group lab at the Tropical Research and Education Center, Institute of Food and Agricultural Sciences, University of Florida, for their invaluable assistance.
+The authors thank the Water Resource Research Group lab at the Tropical Research and Education Center, Institute of Food and Agricultural Sciences, University of Florida, for their invaluable assistance.
